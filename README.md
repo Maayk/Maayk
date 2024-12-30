@@ -18,3 +18,6 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+
+
+![alt text](https://cdn.discordapp.com/attachments/725364723842940950/728605122065596516/logo.gif?ex=67734aa5&is=6771f925&hm=a4866faf2f585c4f5b8f01ca319178aa65560d9f2774ffb9f1affd8648e6ca97&)
