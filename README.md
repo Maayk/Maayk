@@ -20,4 +20,5 @@
 </div><br/>
 
 
-![alt text](https://cdn.discordapp.com/attachments/725364723842940950/728605122065596516/logo.gif?ex=67734aa5&is=6771f925&hm=a4866faf2f585c4f5b8f01ca319178aa65560d9f2774ffb9f1affd8648e6ca97&)
+
+[![alt text](https://cdn.discordapp.com/attachments/725364723842940950/728605122065596516/logo.gif?ex=67734aa5&is=6771f925&hm=a4866faf2f585c4f5b8f01ca319178aa65560d9f2774ffb9f1affd8648e6ca97&)](#)
