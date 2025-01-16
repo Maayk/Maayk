@@ -7,16 +7,18 @@
 ## Tecnologias
 
 <div style="display: inline_block;">
+  
   [![html5](./html5.svg)](#)
-  [![html5](./css3.svg)](#)
-  [![html5](./bootstrap.svg)](#)
-  [![html5](./javascript.svg)](#)
-  [![html5](./jquery.svg)](#)
-  [![html5](./vuejs.svg)](#)
-  [![html5](./lua.svg)](#)
-  [![html5](./nodejs.svg)](#)
-  [![html5](./mysql.svg)](#)
-  [![html5](./python.svg)](#)
+  [![html3](./css3.svg)](#)
+  [![bootstrap](./bootstrap.svg)](#)
+  [![javascript](./javascript.svg)](#)
+  [![jquery](./jquery.svg)](#)
+  [![vuejs](./vuejs.svg)](#)
+  [![lua](./lua.svg)](#)
+  [![nodejs](./nodejs.svg)](#)
+  [![mysql](./mysql.svg)](#)
+  [![python](./python.svg)](#)
+
 </div><br/>
 
 
